@@ -1,2 +1,2 @@
-file2 changes
+this is file2
 done by tom
